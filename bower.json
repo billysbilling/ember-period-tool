@@ -1,0 +1,20 @@
+{
+  "name": "ember-period-tool",
+  "version": "0.1.0",
+  "homepage": "https://github.com/billysbilling/ember-period-tool",
+  "main": "src/js/period-tool.js",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "ember": "billysbilling/bower-ember#master",
+    "style-guide": "billysbilling/style-guide#master",
+    "ember-period-field": "billysbilling/ember-period-field#master",
+    "ember-tool": "billysbilling/ember-tool#master"
+  }
+}
