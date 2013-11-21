@@ -1,6 +1,6 @@
 {
   "name": "ember-period-tool",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "homepage": "https://github.com/billysbilling/ember-period-tool",
   "main": "src/js/period-tool.js",
   "license": "MIT",
